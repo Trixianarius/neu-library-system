@@ -8,7 +8,7 @@ Granado, Trixian Wackyll C — 2BSIT-5 — Academic Year 2025–2026
 
 **Links:**
 - [GitHub Repository](https://github.com/trixianwackyllgranado/neu-library)
-- [Live Web App](https://neu-library-henna.vercel.app)
+- [Live Web App]([https://neu-library-henna.vercel.app](https://neu-library-v2.vercel.app))
 - [Full Documentation (Detailed Manual)](https://docs.google.com/document/d/1itbqZc4-17EsljgMnfr4uOMbAT7ww3SjBoMi5ls2tlc/edit?usp=sharing)
 
 > [!IMPORTANT]
